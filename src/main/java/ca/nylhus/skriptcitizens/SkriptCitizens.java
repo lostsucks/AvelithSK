@@ -47,7 +47,7 @@ public final class SkriptCitizens extends JavaPlugin {
         }
 
         Metrics metrics = new Metrics(this, 19228);
-        SkriptCitizens.info("Skript-Citizens has been enabled.");
+        SkriptCitizens.info("CitizenSK (Skript-Citizens Fork) has been enabled.");
 
     }
 
